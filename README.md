@@ -43,6 +43,58 @@ MediSphere is a Python Object-Oriented Programming project built using Tkinter. 
 ## How To Run
 
 1. Clone the repository:
+```
+
+2. Open the project folder:
+
+```bash
+cd MediSphere
+```
+
+3. Run the Python file:
+
+```bash
+python hospital_app.py
+```
+
+## Project Structure
+
+```text
+MediSphere/
+├── hospital_app.py
+├── Group16_Project_Report.pdf
+└── README.md
+```
+
+## Billing Charges
+
+| Charge Type | Amount |
+|---|---|
+| Appointment Charge | Rs. 100 |
+| Emergency Fee | Rs. 2000 |
+| Inpatient Room Charge | Rs. 1000 |
+| Specialist Extra Fee | Rs. 300 |
+
+## Project Report
+
+The complete project report is included in this repository as:
+
+```text
+Group16_Project_Report.pdf
+```
+
+## Future Improvements
+
+- Add login system
+- Store data using a database
+- Add search, update, and delete options
+- Add appointment cancellation
+- Generate PDF bills
+- Improve QR code payment integration
+- Add pharmacy management
+## Conclusion
+
+MediSphere is a simple hospital management desktop application that demonstrates Object-Oriented Programming concepts using Python and Tkinter.
 
 ```bash
 git clone https://github.com/snehpatel05/MediSphere.git
