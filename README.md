@@ -16,7 +16,9 @@ MediSphere is a simple Hospital Management System built with Python, Tkinter, an
 - Python
 - Tkinter
 - OOP Concepts
-##Project Files
--hospital_app.py - main Python application
--Group16_Project_Report.pdf - project report
--README.md - project description
+
+## Project Files
+
+- `hospital_app.py` - Main Python application
+- `Group16_Project_Report.pdf` - Project report
+- `README.md` - Project description
